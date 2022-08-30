@@ -16,7 +16,8 @@ person.play = () => {
     console.log("Plays Cricket");
 };
 
-// console.log(person.play());
+console.log(person.play);
+person.play();
 
 // 2.Object Construtor
 /* 
